@@ -1,0 +1,9 @@
+package com.main.service;
+
+import com.main.model.Player;
+
+public interface HomeService {
+
+	Player setdata(Player p);
+
+}

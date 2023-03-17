@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;User.java&apos; to &apos;RestAPI_CrudOpretion/src/main/java/com.main.model&apos;&#x0D;&#x0A;- Original project: &apos;RestAPI_CrudOpretion&apos;&#x0D;&#x0A;- Destination element: &apos;RestAPI_CrudOpretion/src/main/java/com.main.model&apos;&#x0D;&#x0A;- Original element: &apos;com.main.controller.User.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.main.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.main.controller{User.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1677518689858" units="1" version="1.0"/>
+</session>

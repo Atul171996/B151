@@ -1,0 +1,9 @@
+package com.main.service;
+
+import com.main.model.Product;
+
+public interface HomeService {
+
+	Product savedata(Product p);
+
+}

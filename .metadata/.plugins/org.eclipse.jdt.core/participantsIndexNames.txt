@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\WEB service\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2897295899.index
+\WebService_UI\src\main\java
+C:\WEB service\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1173896901.index
+\UI\src\main\java
+C:\WEB service\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2323439358.index
+\WEB_Application_2\src\main\java
